@@ -32,10 +32,9 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
 	
 	hidden var carouselSec;
 	
-	hidden var zScoreTrigger;
 	hidden var displayArray = [];
-	hidden var lkmMeanArray = [];
-	hidden var meanArraySize;
+	
+	hidden var counterTrigger;
         
 	
 	
@@ -63,8 +62,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
 	
 	function initializeProperties(){
 		carouselSec = app.getProperty("carouselSeconds") == null? 5 : app.getProperty("carouselSeconds");
-		meanArraySize = app.getProperty("meanArraySize") == null? 60 : app.getProperty("meanArraySize");
-		zScoreTrigger = app.getProperty("zScoreTrigger") == null? 3 : app.getProperty("zScoreTrigger");
+		counterTrigger = app.getProperty("counterTrigger") == null? 3 : app.getProperty("counterTrigger");
 		_lkmDC = app.getProperty("totlkmDataCollection") == null? true : app.getProperty("totlkmDataCollection");
 		_lkmDisp= app.getProperty("totlkmDisplay") == null? true : app.getProperty("totlkmDisplay");
 		_lkmhDC= app.getProperty("lkmhDataCollection") == null? true : app.getProperty("lkmhDataCollection");
@@ -80,6 +78,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
         DataField.initialize();
         app = Application.getApp();
         onSettingsChanged();
+        LeistungsKiloMeter.setTrigger(counterTrigger);
         lkm = 0.0f;
         lkmh = 0.0f;
         avlkmh = 0.0f;
@@ -131,18 +130,21 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     function onTimerStop()
     {
         _mTimerState = STOPPED;
+        LeistungsKiloMeter.activityPaused();
     }
 
     //! The timer was started, so set the state to running.
     function onTimerPause()
     {
         _mTimerState = PAUSED;
+        LeistungsKiloMeter.activityPaused();
     }
 
     //! The timer was stopped, so set the state to stopped.
     function onTimerResume()
     {
         _mTimerState = RUNNING;
+         LeistungsKiloMeter.activityResumed();
     }
 
     //! The timer was reeset, so reset all our tracking variables
@@ -236,7 +238,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
 	        displayInformation(dataFieldEnum, value, label);
 	
 	      	switchtimer++;
-	      	if(switchtimer==1000){
+	      	if(switchtimer==carouselSec*100){
 	      		switchtimer=0;
 	      	}
 		} else {

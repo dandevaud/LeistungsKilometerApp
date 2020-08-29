@@ -2,7 +2,9 @@
  	<setting propertyKey="@Properties.carouselSeconds" title="@Strings.carouselSecondsTitle" prompt="@Strings.carouselSecondsPrompt">
  		<settingConfig type="numeric" required="true" min="1" errorMessage="@Strings.minValueError"/>
 	</setting>
- 	
+	<setting propertyKey="@Properties.counterTrigger" title="@Strings.counterTriggerTitle" prompt="@Strings.counterTriggerPrompt">
+ 		<settingConfig type="numeric" required="true" min="1" errorMessage="@Strings.minValueError"/>
+	</setting>
  	<setting propertyKey="@Properties.lkmhDisplay" title="@Strings.lkmhDisplayTitle">
  		<settingConfig type="boolean" />
  	</setting>

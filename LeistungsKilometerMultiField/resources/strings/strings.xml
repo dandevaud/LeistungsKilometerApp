@@ -35,4 +35,8 @@
    <string id="pleaseSelect">Please Select Value</string>
     <string id="inSettings">in Settings</string>
     
+      <string id="counterTriggerTitle">All each iteration shall the values be updated?</string>
+    <string id="counterTriggerPrompt">Defines the number of iteration to wait for the values to be updated. The higher the number, the flatter the resulting curves. Depending on the recording method (smart vs. every second), the iteration time varies.</string>
+  
+    
 </strings>

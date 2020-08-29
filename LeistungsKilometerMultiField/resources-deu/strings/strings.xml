@@ -48,6 +48,10 @@
      <string id="pleaseSelect">Bitte Wert auswählen</string>
     <string id="inSettings">in Einstellungen</string>
 
+    <string id="counterTriggerTitle">Nach wie vielen Iterationen sollen die Werte aktualisert werden?</string>
+    <string id="counterTriggerPrompt">Definiert die Anzahl der Iteration, welche ausgelassen werden bevor der Wert aktualisert wird. Je höher die Zahl desto flacher die resultierende Kurve in der Zusammenfassung (TradeOff: Genauigkeit vs. Ausreisser entfernung). Die Zeit zwischen den Iterationen hängt von der Aufnahme Methode (Smart vs. jede Sekunde) der Uhr ab.</string>
+  
+  
  
     
 </strings>

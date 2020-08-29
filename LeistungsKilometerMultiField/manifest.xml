@@ -33,7 +33,7 @@
             <iq:language>eng</iq:language>
         </iq:languages>
         <iq:barrels>
-            <iq:depends name="LeistungsKiloMeter" version="2.2.0"/>
+            <iq:depends name="LeistungsKiloMeter" version="3.2.0"/>
         </iq:barrels>
     </iq:application>
 </iq:manifest>
