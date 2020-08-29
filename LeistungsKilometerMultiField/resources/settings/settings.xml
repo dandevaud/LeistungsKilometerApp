@@ -1,0 +1,31 @@
+<settings>
+ 	<setting propertyKey="@Properties.carouselSeconds" title="@Strings.carouselSecondsTitle" prompt="@Strings.carouselSecondsPrompt">
+ 		<settingConfig type="numeric" required="true" min="1" errorMessage="@Strings.minValueError"/>
+	</setting>
+ 	
+ 	<setting propertyKey="@Properties.lkmhDisplay" title="@Strings.lkmhDisplayTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.lkmhDataCollection" title="@Strings.lkmhDataCollectionTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.avlkmhDisplay" title="@Strings.avlkmhDisplayTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.avlkmhDataCollection" title="@Strings.avlkmDataCollectionTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.totlkmDisplay" title="@Strings.totlkmDisplayTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.totlkmDataCollection" title="@Strings.totlkmDataCollectionTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.gradDisplay" title="@Strings.gradDisplayTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 	<setting propertyKey="@Properties.gradDataCollection" title="@Strings.gradDataCollectionTitle">
+ 		<settingConfig type="boolean" />
+ 	</setting>
+ 
+</settings>

@@ -1,0 +1,38 @@
+<strings>
+    <string id="AppName">Powerkilometer Multi-Field Carousel</string>
+    <string id="TestAppName">TestPowerKilometerMultiField</string>
+    <string id="label">My Value</string>
+    <string id="lkmShort">Pkm</string>
+    <string id="hShort">/h</string>
+    <string id="aShort">av.</string>
+    <string id="lkmLong">Powerkilometer</string>
+    <string id="hLong">per hour</string>
+    <string id="avLong">Average</string>
+    <string id="gradient">Gradient</string>
+    <string id="gradientShort">Grad.</string>
+    <string id="gradientUnit">%</string>
+    <string id="lkmDataLabel">Total Powerkilometer</string>
+    <string id="lkmhShort">Pkm/h</string>
+    <string id="lkmhLong">Powerkilometer per hour</string>
+    <string id="avLkmhLong">Av. Powerkilometer per hour</string>
+    <string id="carouselSecondsTitle">Duration of Value displaying</string>
+    <string id="carouselSecondsPrompt">How many seconds a value be displayed prior changing to the next one?</string>
+    <string id="minValueError">Please provide a value of at least 1</string>
+    <string id="lkmhDisplayTitle">Display actual Pkm/h?</string>
+    <string id="lkmhDataCollectionTitle">Collect actual Pkm/h?</string>
+    <string id="Test">Test </string> //Only add if in testmode else empty
+    
+    <string id="avlkmhDisplayTitle">Display average Pkm/h?</string>
+    <string id="avlkmDataCollectionTitle">Collect average Pkm/h?</string>
+    
+    <string id="totlkmDisplayTitle">Display total Pkm?</string>
+    <string id="totlkmDataCollectionTitle">Collect total Pkm?</string>
+    
+    <string id="gradDisplayTitle">Display actual gradient?</string>
+    <string id="gradDataCollectionTitle">Collect actual gradient?</string>
+
+ 
+   <string id="pleaseSelect">Please Select Value</string>
+    <string id="inSettings">in Settings</string>
+    
+</strings>

@@ -1,0 +1,12 @@
+<properties>
+	<property id="carouselSeconds" type="number">5</property>
+	<property id="lkmhDisplay" type="boolean">true</property>
+	<property id="lkmhDataCollection" type="boolean">true</property>
+	<property id="avlkmhDisplay" type="boolean">true</property>
+	<property id="avlkmhDataCollection" type="boolean">true</property>
+	<property id="totlkmDisplay" type="boolean">true</property>
+	<property id="totlkmDataCollection" type="boolean">true</property>
+	<property id="gradDisplay" type="boolean">true</property>
+	<property id="gradDataCollection" type="boolean">true</property>
+
+</properties>

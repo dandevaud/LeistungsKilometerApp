@@ -1,0 +1,53 @@
+<strings>
+    <string id="AppName">Leistungskilometer Multi-Field Carousel</string>
+    <string id="TestAppName">TestLeistungsKilometerMultiField</string>
+    <string id="label">My Value</string>
+    <string id="lkmShort">Lkm</string>
+    <string id="hShort">/h</string>
+    <string id="aShort">Durch.</string>
+    <string id="lkmLong">Leistungskilometer</string>
+    <string id="hLong">pro Stunde</string>
+    <string id="avLong">Durchschnittliche</string>
+    <string id="gradient">Steigung</string>
+    <string id="gradientShort">Steig.</string>
+    <string id="gradientUnit">%</string>
+    <string id="lkmDataLabel">Leistungskilometer Total</string>
+    <string id="lkmhShort">Lkm/h</string>
+    <string id="lkmhLong">Leistungskilometer pro Stunde</string>
+    <string id="avLkmhLong">Durch. Lkm pro Stunde</string> //Max 30
+        <string id="Test">Test </string> //Only add if in testmode else empty
+
+    <string id="carouselSecondsTitle">Anzeigezeit der Werte</string>
+
+    <string id="carouselSecondsPrompt">Wie lange soll ein Wert angezeigt werden bevor zum Nächsten gewechselt wird?</string>
+
+    <string id="minValueError">Bitte geben Sie einen Wert von min. 1 ein</string>
+
+    <string id="lkmhDisplayTitle">Aktuelle Lkm/h anzeigen?</string>
+
+    <string id="lkmhDataCollectionTitle">Aktuelle Lkm/h sammeln?</string>
+
+    
+
+    <string id="avlkmhDisplayTitle">Durch. Lkm/h anzeigen?</string>
+
+    <string id="avlkmDataCollectionTitle">Durch. Lkm/h sammeln?</string>
+
+    
+
+    <string id="totlkmDisplayTitle">Lkm total anzeigen?</string>
+
+    <string id="totlkmDataCollectionTitle">Lkm total sammeln?</string>
+
+    
+
+    <string id="gradDisplayTitle">Steigung anzeigen?</string>
+
+    <string id="gradDataCollectionTitle">Steigung sammeln?</string>
+
+     <string id="pleaseSelect">Bitte Wert auswählen</string>
+    <string id="inSettings">in Einstellungen</string>
+
+ 
+    
+</strings>
