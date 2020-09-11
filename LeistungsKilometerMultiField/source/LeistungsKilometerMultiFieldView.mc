@@ -5,6 +5,7 @@ using Toybox.Math;
 
 class LeistungsKilometerMultiFieldView extends Ui.DataField {
 
+	hidden var lkmBarrel = LeistungsKiloMeter2;
     hidden var lkm;
     hidden var lkmh;
     hidden var avlkmh;
@@ -78,7 +79,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
         DataField.initialize();
         app = Application.getApp();
         onSettingsChanged();
-        LeistungsKiloMeter.setTrigger(counterTrigger);
+        lkmBarrel.setTrigger(counterTrigger);
         lkm = 0.0f;
         lkmh = 0.0f;
         avlkmh = 0.0f;
@@ -124,27 +125,27 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     function onTimerStart()
     {
         _mTimerState = RUNNING;
-    }
+     }
 
     //! The timer was stopped, so set the state to stopped.
     function onTimerStop()
     {
         _mTimerState = STOPPED;
-        LeistungsKiloMeter.activityPaused();
+        lkmBarrel.activityPaused();
     }
 
     //! The timer was started, so set the state to running.
     function onTimerPause()
     {
         _mTimerState = PAUSED;
-        LeistungsKiloMeter.activityPaused();
+        lkmBarrel.activityPaused();
     }
 
     //! The timer was stopped, so set the state to stopped.
     function onTimerResume()
     {
         _mTimerState = RUNNING;
-         LeistungsKiloMeter.activityResumed();
+         lkmBarrel.activityResumed();
     }
 
     //! The timer was reeset, so reset all our tracking variables
@@ -194,10 +195,10 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     function compute(info) {    	
         // See Activity.Info in the documentation for available information.
        
-        	lkm = LeistungsKiloMeter.getTotalLkm(info);
-        	lkmh = LeistungsKiloMeter.getLeistungsKilometerProStunde(info);
-        	avlkmh = LeistungsKiloMeter.getAverageLeistungsKilometerProStunde(info);
-        	steepness = LeistungsKiloMeter.getSteepness(info) * 100;  
+        	lkm = lkmBarrel.getTotalLkm(info);
+        	lkmh = lkmBarrel.getLeistungsKilometerProStunde(info);
+        	avlkmh = lkmBarrel.getAverageLeistungsKilometerProStunde(info);
+        	steepness = lkmBarrel.getSteepness(info) * 100;  
         	if(_mTimerState==RUNNING){    	        	
    		        if(_lkmhDC){
 	        		_lkmh.setData(lkmh);
