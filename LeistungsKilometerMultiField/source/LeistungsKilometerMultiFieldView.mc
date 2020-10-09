@@ -48,22 +48,22 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
 
 	function initializeFields(){
 		if(_avLkmh==null&&_avlkmhDC){
-			_avLkmh = self.createField(Ui.loadResource(Rez.Strings.Test)+Ui.loadResource(Rez.Strings.avLong)+" "+Ui.loadResource(Rez.Strings.lkmLong)+" "+Ui.loadResource(Rez.Strings.hLong), 1, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_SESSION, :units => Ui.loadResource(Rez.Strings.lkmShort)+Ui.loadResource(Rez.Strings.hShort) });
+			_avLkmh = self.createField(Ui.loadResource(Rez.Strings.avLong)+" "+Ui.loadResource(Rez.Strings.lkmLong)+" "+Ui.loadResource(Rez.Strings.hLong), 1, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_SESSION, :units => Ui.loadResource(Rez.Strings.lkmShort)+Ui.loadResource(Rez.Strings.hShort) });
 		}
 		if(_lkmh==null&&_lkmhDC){
-			_lkmh = self.createField(Ui.loadResource(Rez.Strings.Test)+Ui.loadResource(Rez.Strings.lkmLong)+" "+Ui.loadResource(Rez.Strings.hLong),2, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_RECORD, :units => Ui.loadResource(Rez.Strings.lkmShort)+Ui.loadResource(Rez.Strings.hShort) });
+			_lkmh = self.createField(Ui.loadResource(Rez.Strings.lkmLong)+" "+Ui.loadResource(Rez.Strings.hLong),2, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_RECORD, :units => Ui.loadResource(Rez.Strings.lkmShort)+Ui.loadResource(Rez.Strings.hShort) });
 		}
 		if(_totLkm==null&&_lkmDC){
-			_totLkm = self.createField(Ui.loadResource(Rez.Strings.Test)+Ui.loadResource(Rez.Strings.lkmLong)+" Total",3, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_SESSION, :units => Ui.loadResource(Rez.Strings.lkmShort) });
+			_totLkm = self.createField(Ui.loadResource(Rez.Strings.lkmLong)+" Total",3, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_SESSION, :units => Ui.loadResource(Rez.Strings.lkmShort) });
 		}
 		if(_steepness==null&&_gradDC){
-			_steepness = self.createField(Ui.loadResource(Rez.Strings.Test)+Ui.loadResource(Rez.Strings.gradient), 4, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_RECORD, :units => Ui.loadResource(Rez.Strings.gradientUnit) });
+			_steepness = self.createField(Ui.loadResource(Rez.Strings.gradient), 4, Fit.DATA_TYPE_FLOAT, { :mesgType => Fit.MESG_TYPE_RECORD, :units => Ui.loadResource(Rez.Strings.gradientUnit) });
 		}
 	}
 	
 	function initializeProperties(){
 		carouselSec = app.getProperty("carouselSeconds") == null? 5 : app.getProperty("carouselSeconds");
-		counterTrigger = app.getProperty("counterTrigger") == null? 3 : app.getProperty("counterTrigger");
+		counterTrigger = app.getProperty("counterTrigger") == null? 60 : app.getProperty("counterTrigger");
 		_lkmDC = app.getProperty("totlkmDataCollection") == null? true : app.getProperty("totlkmDataCollection");
 		_lkmDisp= app.getProperty("totlkmDisplay") == null? true : app.getProperty("totlkmDisplay");
 		_lkmhDC= app.getProperty("lkmhDataCollection") == null? true : app.getProperty("lkmhDataCollection");
@@ -125,6 +125,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     function onTimerStart()
     {
         _mTimerState = RUNNING;
+         lkmBarrel.activityResumed(lkm);
      }
 
     //! The timer was stopped, so set the state to stopped.
@@ -132,6 +133,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     {
         _mTimerState = STOPPED;
         lkmBarrel.activityPaused();
+        
     }
 
     //! The timer was started, so set the state to running.
@@ -145,13 +147,14 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     function onTimerResume()
     {
         _mTimerState = RUNNING;
-         lkmBarrel.activityResumed();
+         lkmBarrel.activityResumed(lkm);
     }
 
     //! The timer was reeset, so reset all our tracking variables
     function onTimerReset()
     {
-        _mTimerState = STOPPED;       
+        _mTimerState = STOPPED;  
+        initialize();     
     }
 
     // Set your layout here. Anytime the size of obscurity of
