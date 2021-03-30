@@ -5,7 +5,7 @@ using Toybox.Math;
 
 class LeistungsKilometerMultiFieldView extends Ui.DataField {
 
-	hidden var lkmBarrel = LeistungsKiloMeter2;
+	hidden var lkmBarrel = LeistungsKiloMeter;
     hidden var lkm;
     hidden var lkmh;
     hidden var avlkmh;
@@ -27,6 +27,7 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
 	hidden var _avlkmhDC;
 	hidden var _gradDC;
 	hidden var _gradDisp;
+	hidden var isStarted = false;
 
 	
 	hidden var app;
@@ -124,15 +125,17 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     //! The timer was started, so set the state to running.
     function onTimerStart()
     {
-        _mTimerState = RUNNING;
-         lkmBarrel.activityResumed(lkm);
+   		isStarted = true;
+        _mTimerState = RUNNING;   
+       
+       
      }
 
     //! The timer was stopped, so set the state to stopped.
     function onTimerStop()
     {
         _mTimerState = STOPPED;
-        lkmBarrel.activityPaused();
+        app.Storage.setValue("totLKM",lkmBarrel.activityPaused());
         
     }
 
@@ -140,20 +143,23 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     function onTimerPause()
     {
         _mTimerState = PAUSED;
-        lkmBarrel.activityPaused();
+        app.Storage.setValue("totLKM",lkmBarrel.activityPaused());
     }
 
     //! The timer was stopped, so set the state to stopped.
     function onTimerResume()
     {
         _mTimerState = RUNNING;
-         lkmBarrel.activityResumed(lkm);
+        var lkmInt = app.Storage.getValue("totLKM");
+         	lkmBarrel.activityResumed(lkmInt);
+        
     }
 
     //! The timer was reeset, so reset all our tracking variables
     function onTimerReset()
     {
         _mTimerState = STOPPED;  
+          app.Storage.setValue("totLKM",0);
         initialize();     
     }
 
@@ -195,7 +201,25 @@ class LeistungsKilometerMultiFieldView extends Ui.DataField {
     // Calculate a value and save it locally in this method.
     // Note that compute() and onUpdate() are asynchronous, and there is no
     // guarantee that compute() will be called before onUpdate().
-    function compute(info) {    	
+    function compute(info) {    
+    
+    	
+     	if(isStarted){
+     	var elapsed = 0;
+	     	if(info has:elapsedDistance){
+			        if(info.elapsedDistance != null){
+			        	elapsed = info.elapsedDistance;
+			        }
+			 }			       
+	        if(elapsed > 0){
+	         var lkmInt = app.Storage.getValue("totLKM");
+	         	lkmBarrel.activityResumed(lkmInt);
+	         } else {
+	           app.Storage.setValue("totLKM",0);
+	         }
+	         isStarted = false;
+         }
+    	
         // See Activity.Info in the documentation for available information.
        
         	lkm = lkmBarrel.getTotalLkm(info);

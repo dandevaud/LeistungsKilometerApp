@@ -146,11 +146,15 @@ var counter = 0;
 		}
 		
 		function activityPaused(){
-
+			Application.Storage.setValue("totLKM",totLkm);
 		}
 		
-		function activityResumed(totalLkm){
-		 	totLkm = totalLkm;
+		function activityResumed(){
+			var lkm = Application.Storage.get("totLKM");
+			if(lkm != null){
+			 	totLkm = lkm;
+			 	}
 		}
+		
 		
 }

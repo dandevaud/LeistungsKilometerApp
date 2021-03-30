@@ -1,849 +1,895 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <debugInfo>
-<pcToLineNum>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="3" lineNum="9" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="3" lineNum="10" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="3" lineNum="14" pc="268435481" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="4" lineNum="17" pc="268435502" symbol="setColor"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="4" lineNum="18" pc="268435506" symbol="setColor"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="5" lineNum="21" pc="268435517" symbol="draw"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="5" lineNum="22" pc="268435521" symbol="draw"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="5" lineNum="23" pc="268435553" symbol="draw"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="7" lineNum="7" pc="268435566" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="7" lineNum="8" pc="268435570" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="8" lineNum="12" pc="268435589" symbol="onStart"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="9" lineNum="16" pc="268435594" symbol="onStop"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="10" lineNum="19" pc="268435599" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="10" lineNum="20" pc="268435603" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="11" lineNum="24" pc="268435622" symbol="getInitialView"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="11" lineNum="25" pc="268435626" symbol="getInitialView"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="11" lineNum="26" pc="268435656" symbol="getInitialView"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="42" pc="268435680" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="43" pc="268435684" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="44" pc="268435696" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="45" pc="268435708" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="49" pc="268435721" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="50" pc="268435725" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="51" pc="268435752" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="53" pc="268436015" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="54" pc="268436042" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="56" pc="268436263" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="57" pc="268436290" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="59" pc="268436439" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="60" pc="268436466" symbol="initializeFields"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="64" pc="268436610" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="65" pc="268436614" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="66" pc="268436679" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="67" pc="268436744" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="68" pc="268436806" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="69" pc="268436868" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="70" pc="268436930" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="71" pc="268436992" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="72" pc="268437054" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="73" pc="268437116" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="74" pc="268437178" symbol="initializeProperties"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="78" pc="268437241" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="79" pc="268437245" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="80" pc="268437263" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="81" pc="268437288" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="82" pc="268437300" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="83" pc="268437326" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="84" pc="268437339" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="85" pc="268437352" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="86" pc="268437365" symbol="initialize"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="89" pc="268437379" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="90" pc="268437383" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="91" pc="268437397" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="92" pc="268437408" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="94" pc="268437437" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="95" pc="268437448" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="97" pc="268437477" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="98" pc="268437488" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="100" pc="268437517" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="101" pc="268437528" symbol="initializeArray"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="18" lineNum="125" pc="268437558" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="18" lineNum="127" pc="268437562" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="18" lineNum="128" pc="268437578" symbol="onTimerStart"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="19" lineNum="132" pc="268437605" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="19" lineNum="134" pc="268437609" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="19" lineNum="135" pc="268437625" symbol="onTimerStop"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="20" lineNum="140" pc="268437644" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="20" lineNum="142" pc="268437648" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="20" lineNum="143" pc="268437664" symbol="onTimerPause"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="147" pc="268437683" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="149" pc="268437687" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="150" pc="268437703" symbol="onTimerResume"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="154" pc="268437730" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="156" pc="268437734" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="157" pc="268437750" symbol="onTimerReset"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="162" pc="268437763" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="163" pc="268437767" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="166" pc="268437786" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="167" pc="268437809" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="170" pc="268437855" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="171" pc="268437878" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="174" pc="268437924" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="175" pc="268437947" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="178" pc="268437993" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="179" pc="268438016" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="183" pc="268438062" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="184" pc="268438105" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="185" pc="268438129" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="186" pc="268438151" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="187" pc="268438175" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="190" pc="268438197" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="191" pc="268438249" symbol="onLayout"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="198" pc="268438253" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="201" pc="268438257" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="202" pc="268438284" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="203" pc="268438311" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="204" pc="268438338" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="205" pc="268438371" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="206" pc="268438391" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="207" pc="268438402" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="209" pc="268438431" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="210" pc="268438442" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="212" pc="268438471" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="213" pc="268438482" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="215" pc="268438511" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="216" pc="268438522" symbol="compute"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="223" pc="268438555" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="225" pc="268438559" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="228" pc="268438602" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="229" pc="268438626" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="230" pc="268438650" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="231" pc="268438677" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="232" pc="268438701" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="234" pc="268438728" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="235" pc="268438752" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="237" pc="268438776" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="238" pc="268438795" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="239" pc="268438806" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="240" pc="268438840" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="241" pc="268438847" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="242" pc="268438860" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="244" pc="268438878" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="245" pc="268438897" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="246" pc="268438923" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="249" pc="268438942" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="250" pc="268438989" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="254" pc="268439036" symbol="onUpdate"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="257" pc="268439057" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="258" pc="268439061" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="260" pc="268439164" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="261" pc="268439198" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="262" pc="268439281" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="264" pc="268439284" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="265" pc="268439318" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="266" pc="268439443" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="268" pc="268439446" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="269" pc="268439522" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="270" pc="268439569" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="272" pc="268439572" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="273" pc="268439606" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="275" pc="268439659" symbol="displayInformation"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="19" pc="268439663" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="20" pc="268439675" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="21" pc="268439728" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="23" pc="268439789" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="24" pc="268439825" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="25" pc="268439835" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="26" pc="268439835" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="27" pc="268439842" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="29" pc="268439849" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="31" pc="268439899" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="32" pc="268439906" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="33" pc="268439913" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="34" pc="268439920" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="35" pc="268439945" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="36" pc="268439987" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="37" pc="268440029" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="38" pc="268440042" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="39" pc="268440049" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="40" pc="268440069" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="42" pc="268440097" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="44" pc="268440125" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="45" pc="268440144" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="46" pc="268440155" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="50" pc="268440168" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="56" pc="268440199" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="57" pc="268440211" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="58" pc="268440227" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="59" pc="268440261" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="60" pc="268440283" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="65" pc="268440303" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="66" pc="268440315" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="67" pc="268440325" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="68" pc="268440338" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="69" pc="268440349" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="70" pc="268440365" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="71" pc="268440376" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="73" pc="268440392" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="76" pc="268440396" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="77" pc="268440408" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="78" pc="268440433" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="79" pc="268440458" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="80" pc="268440498" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="81" pc="268440523" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="82" pc="268440563" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="86" pc="268440589" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="87" pc="268440601" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="88" pc="268440653" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="89" pc="268440676" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="90" pc="268440702" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="91" pc="268440739" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="94" pc="268440756" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="95" pc="268440773" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="99" pc="268440798" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="100" pc="268440817" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="101" pc="268440843" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="106" pc="268440860" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="107" pc="268440872" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="108" pc="268440886" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="109" pc="268440893" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="110" pc="268440918" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="112" pc="268440945" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="115" pc="268440949" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="116" pc="268440961" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="117" pc="268440975" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="118" pc="268440982" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="119" pc="268441007" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="121" pc="268441034" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="124" pc="268441038" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="125" pc="268441050" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="126" pc="268441064" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="127" pc="268441071" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="128" pc="268441088" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="129" pc="268441104" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="131" pc="268441120" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="36" lineNum="134" pc="268441124" symbol="getTotalLkm"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="36" lineNum="135" pc="268441136" symbol="getTotalLkm"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="36" lineNum="136" pc="268441150" symbol="getTotalLkm"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="37" lineNum="139" pc="268441160" symbol="clear"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="37" lineNum="140" pc="268441172" symbol="clear"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="37" lineNum="141" pc="268441181" symbol="clear"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="38" lineNum="144" pc="268441196" symbol="setTrigger"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="38" lineNum="145" pc="268441208" symbol="setTrigger"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="39" lineNum="148" pc="268441219" symbol="activityPaused"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="152" pc="268441232" symbol="activityResumed"/>
-<entry filename="C:\\Users\\dan_t\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="153" pc="268441244" symbol="activityResumed"/>
-<entry filename="Rez" id="46" lineNum="15" pc="268441255" symbol="MainLayout"/>
-<entry filename="Rez" id="46" lineNum="17" pc="268441267" symbol="MainLayout"/>
-<entry filename="Rez" id="46" lineNum="18" pc="268441280" symbol="MainLayout"/>
-<entry filename="Rez" id="46" lineNum="20" pc="268441293" symbol="MainLayout"/>
-<entry filename="Rez" id="46" lineNum="21" pc="268441317" symbol="MainLayout"/>
-<entry filename="Rez" id="46" lineNum="22" pc="268441480" symbol="MainLayout"/>
-<entry filename="Rez" id="46" lineNum="24" pc="268441643" symbol="MainLayout"/>
-<entry filename="Rez" id="47" lineNum="33" pc="268441681" symbol="TopLeftLayout"/>
-<entry filename="Rez" id="47" lineNum="36" pc="268441693" symbol="TopLeftLayout"/>
-<entry filename="Rez" id="47" lineNum="37" pc="268441717" symbol="TopLeftLayout"/>
-<entry filename="Rez" id="47" lineNum="38" pc="268441850" symbol="TopLeftLayout"/>
-<entry filename="Rez" id="47" lineNum="40" pc="268441983" symbol="TopLeftLayout"/>
-<entry filename="Rez" id="48" lineNum="49" pc="268442021" symbol="TopRightLayout"/>
-<entry filename="Rez" id="48" lineNum="52" pc="268442033" symbol="TopRightLayout"/>
-<entry filename="Rez" id="48" lineNum="53" pc="268442057" symbol="TopRightLayout"/>
-<entry filename="Rez" id="48" lineNum="54" pc="268442190" symbol="TopRightLayout"/>
-<entry filename="Rez" id="48" lineNum="56" pc="268442323" symbol="TopRightLayout"/>
-<entry filename="Rez" id="49" lineNum="65" pc="268442361" symbol="BottomLeftLayout"/>
-<entry filename="Rez" id="49" lineNum="68" pc="268442373" symbol="BottomLeftLayout"/>
-<entry filename="Rez" id="49" lineNum="69" pc="268442397" symbol="BottomLeftLayout"/>
-<entry filename="Rez" id="49" lineNum="70" pc="268442530" symbol="BottomLeftLayout"/>
-<entry filename="Rez" id="49" lineNum="72" pc="268442663" symbol="BottomLeftLayout"/>
-<entry filename="Rez" id="50" lineNum="81" pc="268442701" symbol="BottomRightLayout"/>
-<entry filename="Rez" id="50" lineNum="84" pc="268442713" symbol="BottomRightLayout"/>
-<entry filename="Rez" id="50" lineNum="85" pc="268442737" symbol="BottomRightLayout"/>
-<entry filename="Rez" id="50" lineNum="86" pc="268442870" symbol="BottomRightLayout"/>
-<entry filename="Rez" id="50" lineNum="88" pc="268443003" symbol="BottomRightLayout"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="19" pc="268443041" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="20" pc="268443053" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="21" pc="268443106" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="23" pc="268443167" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="24" pc="268443203" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="25" pc="268443213" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="26" pc="268443213" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="27" pc="268443220" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="29" pc="268443227" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="31" pc="268443277" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="32" pc="268443284" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="33" pc="268443291" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="34" pc="268443298" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="35" pc="268443323" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="36" pc="268443365" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="37" pc="268443407" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="38" pc="268443420" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="39" pc="268443427" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="40" pc="268443447" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="42" pc="268443475" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="44" pc="268443503" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="45" pc="268443522" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="46" pc="268443533" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="54" lineNum="50" pc="268443546" symbol="updateLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="55" lineNum="56" pc="268443577" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="55" lineNum="57" pc="268443589" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="55" lineNum="58" pc="268443605" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="55" lineNum="59" pc="268443639" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="55" lineNum="60" pc="268443661" symbol="updateValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="65" pc="268443681" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="66" pc="268443693" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="67" pc="268443703" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="68" pc="268443716" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="69" pc="268443727" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="70" pc="268443743" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="71" pc="268443754" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="56" lineNum="73" pc="268443770" symbol="getLeistungsKilometer"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="76" pc="268443774" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="77" pc="268443786" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="78" pc="268443811" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="79" pc="268443836" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="80" pc="268443876" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="81" pc="268443901" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="57" lineNum="82" pc="268443941" symbol="updatePointValues"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="86" pc="268443967" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="87" pc="268443979" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="88" pc="268444031" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="89" pc="268444054" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="90" pc="268444080" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="91" pc="268444117" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="94" pc="268444134" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="95" pc="268444151" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="99" pc="268444176" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="100" pc="268444195" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="58" lineNum="101" pc="268444221" symbol="checkIfUpdateNeeded"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="59" lineNum="106" pc="268444238" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="59" lineNum="107" pc="268444250" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="59" lineNum="108" pc="268444264" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="59" lineNum="109" pc="268444271" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="59" lineNum="110" pc="268444296" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="59" lineNum="112" pc="268444323" symbol="getLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="60" lineNum="115" pc="268444327" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="60" lineNum="116" pc="268444339" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="60" lineNum="117" pc="268444353" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="60" lineNum="118" pc="268444360" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="60" lineNum="119" pc="268444385" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="60" lineNum="121" pc="268444412" symbol="getSteepness"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="124" pc="268444416" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="125" pc="268444428" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="126" pc="268444442" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="127" pc="268444449" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="128" pc="268444466" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="129" pc="268444482" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="61" lineNum="131" pc="268444498" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="62" lineNum="134" pc="268444502" symbol="getTotalLkm"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="62" lineNum="135" pc="268444514" symbol="getTotalLkm"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="62" lineNum="136" pc="268444528" symbol="getTotalLkm"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="63" lineNum="139" pc="268444538" symbol="clear"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="63" lineNum="140" pc="268444550" symbol="clear"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="63" lineNum="141" pc="268444559" symbol="clear"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="64" lineNum="144" pc="268444574" symbol="setTrigger"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="64" lineNum="145" pc="268444586" symbol="setTrigger"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="65" lineNum="148" pc="268444597" symbol="activityPaused"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="66" lineNum="152" pc="268444610" symbol="activityResumed"/>
-<entry filename="C:\\Users\\dan_t\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.0.barrel7223122897044341839\\content\\LeistungsKiloMeter.mc" id="66" lineNum="153" pc="268444622" symbol="activityResumed"/>
-</pcToLineNum>
-<symbolTable>
-<entry id="8388639" module="true" symbol="Graphics"/>
-<entry field="true" id="37" symbol="hShort"/>
-<entry field="true" id="91" symbol="TOTLKM"/>
-<entry field="true" id="59" symbol="lkmDataLabel"/>
-<entry id="8389849" symbol="units"/>
-<entry field="true" id="68" symbol="_totLkm"/>
-<entry field="true" id="8388731" symbol="startTime"/>
-<entry id="8388638" module="true" symbol="ActivityRecording"/>
-<entry id="86" method="true" symbol="initializeProperties"/>
-<entry id="26" method="true" symbol="MainLayout"/>
-<entry field="true" id="92" symbol="STOPPED"/>
-<entry field="true" id="65" symbol="steepness"/>
-<entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="32" symbol="carouselSecondsPrompt"/>
-<entry field="true" id="51" symbol="lkmShort"/>
-<entry field="true" id="36" symbol="inSettings"/>
-<entry field="true" id="83" symbol="displayArray"/>
-<entry id="8389748" method="true" symbol="onTimerStop"/>
-<entry id="112" method="true" symbol="activityResumed"/>
-<entry field="true" id="52" symbol="carouselSecondsTitle"/>
-<entry field="true" id="41" symbol="aShort"/>
-<entry field="true" id="56" symbol="avLong"/>
-<entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="60" symbol="gradDataCollectionTitle"/>
-<entry field="true" id="44" symbol="gradientShort"/>
-<entry field="true" id="8388649" module="true" object="true" symbol="Test"/>
-<entry id="19" object="true" symbol="LeistungsKilometerMultiFieldView"/>
-<entry id="102" method="true" symbol="updateValues"/>
-<entry field="true" id="81" symbol="app"/>
-<entry field="true" id="99" symbol="countTrigger"/>
-<entry field="true" id="50" symbol="totlkmDisplayTitle"/>
-<entry id="8389747" method="true" symbol="onTimerStart"/>
-<entry field="true" id="38" symbol="AppName"/>
-<entry field="true" id="8388963" symbol="altitude"/>
-<entry id="8389749" method="true" symbol="onTimerPause"/>
-<entry field="true" id="72" symbol="switchtimer"/>
-<entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="88" symbol="LKMH"/>
-<entry id="87" method="true" symbol="initializeArray"/>
-<entry id="101" method="true" symbol="updateLeistungsKilometer"/>
-<entry id="85" method="true" symbol="initializeFields"/>
-<entry id="8388648" module="true" symbol="WatchUi"/>
-<entry field="true" id="8389138" symbol="label"/>
-<entry field="true" id="39" symbol="counterTriggerTitle"/>
-<entry id="103" method="true" symbol="getLeistungsKilometer"/>
-<entry id="8389124" method="true" symbol="onUpdate"/>
-<entry field="true" id="8389065" symbol="locY"/>
-<entry field="true" id="8389064" symbol="locX"/>
-<entry id="105" method="true" symbol="checkIfUpdateNeeded"/>
-<entry field="true" id="31" symbol="totlkmDataCollectionTitle"/>
-<entry id="8388771" module="true" object="true" symbol="Drawables"/>
-<entry id="8389348" symbol="font"/>
-<entry field="true" id="67" symbol="_avLkmh"/>
-<entry id="24" module="true" symbol="Menus"/>
-<entry field="true" id="43" symbol="hLong"/>
-<entry id="18" object="true" symbol="LeistungsKilometerMultiFieldApp"/>
-<entry field="true" id="8388733" symbol="timerTime"/>
-<entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="76" symbol="_lkmhDisp"/>
-<entry field="true" id="8389063" symbol="identifier"/>
-<entry id="111" method="true" symbol="activityPaused"/>
-<entry field="true" id="55" symbol="lkmhDataCollectionTitle"/>
-<entry id="8389349" symbol="justification"/>
-<entry id="8389137" method="true" symbol="compute"/>
-<entry field="true" id="77" symbol="_avlkmhDisp"/>
-<entry field="true" id="98" symbol="totLkm"/>
-<entry id="21" module="true" symbol="LeistungsKiloMeter"/>
-<entry id="8389131" method="true" symbol="setColor"/>
-<entry field="true" id="90" symbol="GRAD"/>
-<entry field="true" id="79" symbol="_gradDC"/>
-<entry field="true" id="78" symbol="_avlkmhDC"/>
-<entry field="true" id="62" symbol="lkm"/>
-<entry field="true" id="70" symbol="_steepness"/>
-<entry field="true" id="96" symbol="prevTime"/>
-<entry field="true" id="58" symbol="lkmhShort"/>
-<entry id="8389177" method="true" symbol="clear"/>
-<entry id="8389752" method="true" symbol="onTimerReset"/>
-<entry id="27" method="true" symbol="TopLeftLayout"/>
-<entry id="104" method="true" symbol="updatePointValues"/>
-<entry field="true" id="45" symbol="avLkmhLong"/>
-<entry field="true" id="64" symbol="avlkmh"/>
-<entry id="107" method="true" symbol="getSteepness"/>
-<entry id="8388645" module="true" symbol="Time"/>
-<entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry field="true" id="48" symbol="lkmhDisplayTitle"/>
-<entry field="true" id="80" symbol="_gradDisp"/>
-<entry field="true" id="73" symbol="_lkmDC"/>
-<entry id="29" method="true" symbol="BottomLeftLayout"/>
-<entry id="110" method="true" symbol="setTrigger"/>
-<entry field="true" id="93" symbol="PAUSED"/>
-<entry id="30" method="true" symbol="BottomRightLayout"/>
-<entry id="108" method="true" symbol="getAverageLeistungsKilometerProStunde"/>
-<entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="8389130" symbol="mColor"/>
-<entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="100" symbol="counter"/>
-<entry field="true" id="25" symbol="LauncherIcon"/>
-<entry field="true" id="71" symbol="fieldNum"/>
-<entry field="true" id="97" symbol="totTime"/>
-<entry field="true" id="8388794" method="true" symbol="values"/>
-<entry field="true" id="40" symbol="minValueError"/>
-<entry field="true" id="66" symbol="_mTimerState"/>
-<entry field="true" id="94" symbol="RUNNING"/>
-<entry field="true" id="35" symbol="avlkmhDisplayTitle"/>
-<entry field="true" id="74" symbol="_lkmDisp"/>
-<entry id="8388770" module="true" object="true" symbol="Strings"/>
-<entry id="20" module="true" symbol="LeistungsKiloMeter2"/>
-<entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry field="true" id="84" symbol="counterTrigger"/>
-<entry field="true" id="22" symbol="_view"/>
-<entry field="true" id="34" symbol="gradientUnit"/>
-<entry id="8388702" method="true" symbol="initialize"/>
-<entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="42" symbol="TestAppName"/>
-<entry id="106" method="true" symbol="getLeistungsKilometerProStunde"/>
-<entry field="true" id="54" symbol="gradDisplayTitle"/>
-<entry field="true" id="75" symbol="_lkmhDC"/>
-<entry id="8388641" module="true" symbol="Math"/>
-<entry id="8389280" method="true" symbol="getInitialView"/>
-<entry id="8389281" method="true" symbol="onStop"/>
-<entry id="8389847" symbol="mesgType"/>
-<entry id="8389347" symbol="color"/>
-<entry field="true" id="33" symbol="counterTriggerPrompt"/>
-<entry field="true" id="61" symbol="lkmBarrel"/>
-<entry field="true" id="46" symbol="lkmhLong"/>
-<entry id="109" method="true" symbol="getTotalLkm"/>
-<entry id="95" method="true" symbol="displayInformation"/>
-<entry field="true" id="8388734" symbol="elapsedDistance"/>
-<entry field="true" id="82" symbol="carouselSec"/>
-<entry id="23" module="true" symbol="Layouts"/>
-<entry field="true" id="49" symbol="lkmLong"/>
-<entry field="true" id="69" symbol="_lkmh"/>
-<entry id="8388642" module="true" symbol="Position"/>
-<entry id="8389750" method="true" symbol="onTimerResume"/>
-<entry field="true" id="63" symbol="lkmh"/>
-<entry field="true" id="53" symbol="avlkmDataCollectionTitle"/>
-<entry id="8388635" module="true" symbol="Application"/>
-<entry field="true" id="89" symbol="AVLKMH"/>
-<entry id="28" method="true" symbol="TopRightLayout"/>
-<entry field="true" id="47" symbol="gradient"/>
-<entry field="true" id="57" symbol="pleaseSelect"/>
-</symbolTable>
-<localVars>
-<entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
-<entry endPc="268435517" name="color" stackId="1" startPc="268435502"/>
-<entry endPc="268435566" name="dc" stackId="1" startPc="268435517"/>
-<entry endPc="268435594" name="state" stackId="1" startPc="268435589"/>
-<entry endPc="268435599" name="state" stackId="1" startPc="268435594"/>
-<entry endPc="268438197" name="valueView" stackId="4" startPc="268438062"/>
-<entry endPc="268438197" name="labelView" stackId="3" startPc="268438062"/>
-<entry endPc="268438252" name="obscurityFlags" stackId="2" startPc="268437767"/>
-<entry endPc="268438253" name="dc" stackId="1" startPc="268437763"/>
-<entry endPc="268438555" name="info" stackId="1" startPc="268438253"/>
-<entry endPc="268438939" name="dataFieldEnum" stackId="7" startPc="268438806"/>
-<entry endPc="268438939" name="modulo" stackId="6" startPc="268438806"/>
-<entry endPc="268438939" name="divided" stackId="5" startPc="268438806"/>
-<entry endPc="268439056" name="label" stackId="3" startPc="268438559"/>
-<entry endPc="268439056" name="numOfFields" stackId="4" startPc="268438559"/>
-<entry endPc="268439056" name="value" stackId="2" startPc="268438559"/>
-<entry endPc="268439057" name="dc" stackId="1" startPc="268438555"/>
-<entry endPc="268439663" name="dataFieldEnum" stackId="1" startPc="268439057"/>
-<entry endPc="268439663" name="label" stackId="3" startPc="268439057"/>
-<entry endPc="268439663" name="value" stackId="2" startPc="268439057"/>
-<entry endPc="268440165" name="hoursElapsed" stackId="10" startPc="268439945"/>
-<entry endPc="268440165" name="deltaDistance" stackId="9" startPc="268439945"/>
-<entry endPc="268440165" name="deltaAlti" stackId="8" startPc="268439945"/>
-<entry endPc="268440192" name="lkm" stackId="6" startPc="268439789"/>
-<entry endPc="268440192" name="now" stackId="2" startPc="268439789"/>
-<entry endPc="268440192" name="steepness" stackId="5" startPc="268439789"/>
-<entry endPc="268440192" name="timeToUse" stackId="3" startPc="268439789"/>
-<entry endPc="268440192" name="timeFromPrevPoint" stackId="4" startPc="268439789"/>
-<entry endPc="268440192" name="lkmh" stackId="7" startPc="268439789"/>
-<entry endPc="268440199" name="info" stackId="1" startPc="268439663"/>
-<entry endPc="268440303" name="lkm" stackId="1" startPc="268440199"/>
-<entry endPc="268440303" name="now" stackId="6" startPc="268440199"/>
-<entry endPc="268440303" name="steepness" stackId="5" startPc="268440199"/>
-<entry endPc="268440303" name="info" stackId="4" startPc="268440199"/>
-<entry endPc="268440303" name="timeFromPrevPoint" stackId="2" startPc="268440199"/>
-<entry endPc="268440303" name="lkmh" stackId="3" startPc="268440199"/>
-<entry endPc="268440395" name="lkm" stackId="4" startPc="268440315"/>
-<entry endPc="268440396" name="deltaDistance" stackId="1" startPc="268440303"/>
-<entry endPc="268440396" name="deltaAlti" stackId="3" startPc="268440303"/>
-<entry endPc="268440396" name="steepness" stackId="2" startPc="268440303"/>
-<entry endPc="268440589" name="lkm" stackId="1" startPc="268440396"/>
-<entry endPc="268440589" name="steepness" stackId="5" startPc="268440396"/>
-<entry endPc="268440589" name="info" stackId="3" startPc="268440396"/>
-<entry endPc="268440589" name="timeFromPrevPoint" stackId="4" startPc="268440396"/>
-<entry endPc="268440589" name="lkmh" stackId="2" startPc="268440396"/>
-<entry endPc="268440859" name="now" stackId="2" startPc="268440601"/>
-<entry endPc="268440859" name="gpsQuality" stackId="3" startPc="268440601"/>
-<entry endPc="268440860" name="info" stackId="1" startPc="268440589"/>
-<entry endPc="268440948" name="lkmh" stackId="2" startPc="268440872"/>
-<entry endPc="268440949" name="info" stackId="1" startPc="268440860"/>
-<entry endPc="268441037" name="steepness" stackId="2" startPc="268440961"/>
-<entry endPc="268441038" name="info" stackId="1" startPc="268440949"/>
-<entry endPc="268441117" name="hours" stackId="3" startPc="268441088"/>
-<entry endPc="268441123" name="avLKM" stackId="2" startPc="268441050"/>
-<entry endPc="268441124" name="info" stackId="1" startPc="268441038"/>
-<entry endPc="268441160" name="info" stackId="1" startPc="268441124"/>
-<entry endPc="268441219" name="countTriggerIn" stackId="1" startPc="268441196"/>
-<entry endPc="268441255" name="totalLkm" stackId="1" startPc="268441232"/>
-<entry endPc="268441680" name="rez_cmp_local_text_value" stackId="6" startPc="268441267"/>
-<entry endPc="268441680" name="rez_cmp_local_custom_drawable_17501371362117237968" stackId="4" startPc="268441267"/>
-<entry endPc="268441680" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268441267"/>
-<entry endPc="268441680" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268441267"/>
-<entry endPc="268441680" name="rez_cmp_local_text_label" stackId="5" startPc="268441267"/>
-<entry endPc="268441681" name="dc" stackId="1" startPc="268441255"/>
-<entry endPc="268442020" name="rez_cmp_local_text_value" stackId="4" startPc="268441693"/>
-<entry endPc="268442020" name="rez_cmp_local_custom_drawable_48800103305231681156" stackId="2" startPc="268441693"/>
-<entry endPc="268442020" name="rez_cmp_local_text_label" stackId="3" startPc="268441693"/>
-<entry endPc="268442021" name="dc" stackId="1" startPc="268441681"/>
-<entry endPc="268442360" name="rez_cmp_local_text_value" stackId="4" startPc="268442033"/>
-<entry endPc="268442360" name="rez_cmp_local_text_label" stackId="3" startPc="268442033"/>
-<entry endPc="268442360" name="rez_cmp_local_custom_drawable_82477334868928883116" stackId="2" startPc="268442033"/>
-<entry endPc="268442361" name="dc" stackId="1" startPc="268442021"/>
-<entry endPc="268442700" name="rez_cmp_local_text_value" stackId="4" startPc="268442373"/>
-<entry endPc="268442700" name="rez_cmp_local_custom_drawable_64790891815153057937" stackId="2" startPc="268442373"/>
-<entry endPc="268442700" name="rez_cmp_local_text_label" stackId="3" startPc="268442373"/>
-<entry endPc="268442701" name="dc" stackId="1" startPc="268442361"/>
-<entry endPc="268443040" name="rez_cmp_local_custom_drawable_19280634953864950681" stackId="2" startPc="268442713"/>
-<entry endPc="268443040" name="rez_cmp_local_text_value" stackId="4" startPc="268442713"/>
-<entry endPc="268443040" name="rez_cmp_local_text_label" stackId="3" startPc="268442713"/>
-<entry endPc="268443041" name="dc" stackId="1" startPc="268442701"/>
-<entry endPc="268443543" name="hoursElapsed" stackId="10" startPc="268443323"/>
-<entry endPc="268443543" name="deltaDistance" stackId="9" startPc="268443323"/>
-<entry endPc="268443543" name="deltaAlti" stackId="8" startPc="268443323"/>
-<entry endPc="268443570" name="lkm" stackId="6" startPc="268443167"/>
-<entry endPc="268443570" name="now" stackId="2" startPc="268443167"/>
-<entry endPc="268443570" name="steepness" stackId="5" startPc="268443167"/>
-<entry endPc="268443570" name="timeToUse" stackId="3" startPc="268443167"/>
-<entry endPc="268443570" name="timeFromPrevPoint" stackId="4" startPc="268443167"/>
-<entry endPc="268443570" name="lkmh" stackId="7" startPc="268443167"/>
-<entry endPc="268443577" name="info" stackId="1" startPc="268443041"/>
-<entry endPc="268443681" name="lkm" stackId="1" startPc="268443577"/>
-<entry endPc="268443681" name="now" stackId="6" startPc="268443577"/>
-<entry endPc="268443681" name="steepness" stackId="5" startPc="268443577"/>
-<entry endPc="268443681" name="info" stackId="4" startPc="268443577"/>
-<entry endPc="268443681" name="timeFromPrevPoint" stackId="2" startPc="268443577"/>
-<entry endPc="268443681" name="lkmh" stackId="3" startPc="268443577"/>
-<entry endPc="268443773" name="lkm" stackId="4" startPc="268443693"/>
-<entry endPc="268443774" name="deltaDistance" stackId="1" startPc="268443681"/>
-<entry endPc="268443774" name="deltaAlti" stackId="3" startPc="268443681"/>
-<entry endPc="268443774" name="steepness" stackId="2" startPc="268443681"/>
-<entry endPc="268443967" name="lkm" stackId="1" startPc="268443774"/>
-<entry endPc="268443967" name="steepness" stackId="5" startPc="268443774"/>
-<entry endPc="268443967" name="info" stackId="3" startPc="268443774"/>
-<entry endPc="268443967" name="timeFromPrevPoint" stackId="4" startPc="268443774"/>
-<entry endPc="268443967" name="lkmh" stackId="2" startPc="268443774"/>
-<entry endPc="268444237" name="now" stackId="2" startPc="268443979"/>
-<entry endPc="268444237" name="gpsQuality" stackId="3" startPc="268443979"/>
-<entry endPc="268444238" name="info" stackId="1" startPc="268443967"/>
-<entry endPc="268444326" name="lkmh" stackId="2" startPc="268444250"/>
-<entry endPc="268444327" name="info" stackId="1" startPc="268444238"/>
-<entry endPc="268444415" name="steepness" stackId="2" startPc="268444339"/>
-<entry endPc="268444416" name="info" stackId="1" startPc="268444327"/>
-<entry endPc="268444495" name="hours" stackId="3" startPc="268444466"/>
-<entry endPc="268444501" name="avLKM" stackId="2" startPc="268444428"/>
-<entry endPc="268444502" name="info" stackId="1" startPc="268444416"/>
-<entry endPc="268444538" name="info" stackId="1" startPc="268444502"/>
-<entry endPc="268444597" name="countTriggerIn" stackId="1" startPc="268444574"/>
-<entry endPc="268444633" name="totalLkm" stackId="1" startPc="268444610"/>
-</localVars>
-<annotations/>
-<dataEntryOffsetMappings>
-<dataEntry offset="159" parentId="" symbolId="globals" type="module"/>
-<dataEntry offset="246" parentId="globals" symbolId="Background" type="class"/>
-<dataEntry offset="317" parentId="globals" symbolId="LeistungsKilometerMultiFieldApp" type="class"/>
-<dataEntry offset="404" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry offset="483" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="522" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="553" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="584" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="655" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="686" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry offset="973" parentId="globals" symbolId="LeistungsKilometerMultiFieldView" type="class"/>
-<dataEntry offset="1372" parentId="globals" symbolId="LeistungsKiloMeter2" type="module"/>
-<dataEntry offset="1555" parentId="globals" symbolId="LeistungsKiloMeter" type="module"/>
-<dataEntry offset="1746" parentId="LeistungsKiloMeter" symbolId="Rez" type="module"/>
-<dataEntry offset="1825" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry offset="1856" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry offset="1887" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry offset="1918" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry offset="1949" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry offset="1980" parentId="Rez" symbolId="Strings" type="module"/>
-</dataEntryOffsetMappings>
-<functions>
-<functionEntry accessMode="public" name="initialize" parent="Background">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="setColor" parent="Background">
-<param id="color"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="draw" parent="Background">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="LeistungsKilometerMultiFieldApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStart" parent="LeistungsKilometerMultiFieldApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onStop" parent="LeistungsKilometerMultiFieldApp">
-<param id="state"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onSettingsChanged" parent="LeistungsKilometerMultiFieldApp">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getInitialView" parent="LeistungsKilometerMultiFieldApp">
-<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onSettingsChanged" parent="LeistungsKilometerMultiFieldView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initializeFields" parent="LeistungsKilometerMultiFieldView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initializeProperties" parent="LeistungsKilometerMultiFieldView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initialize" parent="LeistungsKilometerMultiFieldView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="initializeArray" parent="LeistungsKilometerMultiFieldView">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onTimerStart" parent="LeistungsKilometerMultiFieldView">
-<documentation><![CDATA[<div class="description"> The timer was started, so set the state to running.<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onTimerStop" parent="LeistungsKilometerMultiFieldView">
-<documentation><![CDATA[<div class="description"> The timer was stopped, so set the state to stopped.<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onTimerPause" parent="LeistungsKilometerMultiFieldView">
-<documentation><![CDATA[<div class="description"> The timer was started, so set the state to running.<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onTimerResume" parent="LeistungsKilometerMultiFieldView">
-<documentation><![CDATA[<div class="description"> The timer was stopped, so set the state to stopped.<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onTimerReset" parent="LeistungsKilometerMultiFieldView">
-<documentation><![CDATA[<div class="description"> The timer was reeset, so reset all our tracking variables<br/></div>]]></documentation>
-</functionEntry>
-<functionEntry accessMode="public" name="onLayout" parent="LeistungsKilometerMultiFieldView">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="compute" parent="LeistungsKilometerMultiFieldView">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="onUpdate" parent="LeistungsKilometerMultiFieldView">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="displayInformation" parent="LeistungsKilometerMultiFieldView">
-<param id="dataFieldEnum"/>
-<param id="value"/>
-<param id="label"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="updateLeistungsKilometer" parent="LeistungsKiloMeter2">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="updateValues" parent="LeistungsKiloMeter2">
-<param id="lkm"/>
-<param id="timeFromPrevPoint"/>
-<param id="lkmh"/>
-<param id="info"/>
-<param id="steepness"/>
-<param id="now"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getLeistungsKilometer" parent="LeistungsKiloMeter2">
-<param id="deltaDistance"/>
-<param id="steepness"/>
-<param id="deltaAlti"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="updatePointValues" parent="LeistungsKiloMeter2">
-<param id="lkm"/>
-<param id="lkmh"/>
-<param id="info"/>
-<param id="timeFromPrevPoint"/>
-<param id="steepness"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="checkIfUpdateNeeded" parent="LeistungsKiloMeter2">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getLeistungsKilometerProStunde" parent="LeistungsKiloMeter2">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getSteepness" parent="LeistungsKiloMeter2">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getAverageLeistungsKilometerProStunde" parent="LeistungsKiloMeter2">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getTotalLkm" parent="LeistungsKiloMeter2">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="clear" parent="LeistungsKiloMeter2">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="setTrigger" parent="LeistungsKiloMeter2">
-<param id="countTriggerIn"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="activityPaused" parent="LeistungsKiloMeter2">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="activityResumed" parent="LeistungsKiloMeter2">
-<param id="totalLkm"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
-<param id="dc"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="updateLeistungsKilometer" parent="LeistungsKiloMeter">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="updateValues" parent="LeistungsKiloMeter">
-<param id="lkm"/>
-<param id="timeFromPrevPoint"/>
-<param id="lkmh"/>
-<param id="info"/>
-<param id="steepness"/>
-<param id="now"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getLeistungsKilometer" parent="LeistungsKiloMeter">
-<param id="deltaDistance"/>
-<param id="steepness"/>
-<param id="deltaAlti"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="updatePointValues" parent="LeistungsKiloMeter">
-<param id="lkm"/>
-<param id="lkmh"/>
-<param id="info"/>
-<param id="timeFromPrevPoint"/>
-<param id="steepness"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="checkIfUpdateNeeded" parent="LeistungsKiloMeter">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getLeistungsKilometerProStunde" parent="LeistungsKiloMeter">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getSteepness" parent="LeistungsKiloMeter">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getAverageLeistungsKilometerProStunde" parent="LeistungsKiloMeter">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="getTotalLkm" parent="LeistungsKiloMeter">
-<param id="info"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="clear" parent="LeistungsKiloMeter">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="setTrigger" parent="LeistungsKiloMeter">
-<param id="countTriggerIn"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="activityPaused" parent="LeistungsKiloMeter">
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" name="activityResumed" parent="LeistungsKiloMeter">
-<param id="totalLkm"/>
-<documentation/>
-</functionEntry>
-</functions>
+    <manifest filename="C:\Users\Dan\git\LeistungsKilometerApp\LeistungsKilometerMultiField\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="4" lineNum="12" pc="268435479" symbol="onStart"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="5" lineNum="16" pc="268435484" symbol="onStop"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="6" lineNum="19" pc="268435489" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="6" lineNum="20" pc="268435493" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="7" lineNum="24" pc="268435512" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="7" lineNum="25" pc="268435516" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldApp.mc" id="7" lineNum="26" pc="268435546" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="9" lineNum="9" pc="268435570" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="9" lineNum="10" pc="268435574" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="9" lineNum="14" pc="268435595" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="10" lineNum="17" pc="268435616" symbol="setColor"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="10" lineNum="18" pc="268435620" symbol="setColor"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="11" lineNum="21" pc="268435631" symbol="draw"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="11" lineNum="22" pc="268435635" symbol="draw"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldBackground.mc" id="11" lineNum="23" pc="268435667" symbol="draw"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="43" pc="268435680" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="44" pc="268435684" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="45" pc="268435696" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="13" lineNum="46" pc="268435708" symbol="onSettingsChanged"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="50" pc="268435721" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="51" pc="268435725" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="52" pc="268435752" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="54" pc="268436015" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="55" pc="268436042" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="57" pc="268436263" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="58" pc="268436290" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="60" pc="268436439" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="14" lineNum="61" pc="268436466" symbol="initializeFields"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="65" pc="268436610" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="66" pc="268436614" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="67" pc="268436679" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="68" pc="268436744" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="69" pc="268436806" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="70" pc="268436868" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="71" pc="268436930" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="72" pc="268436992" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="73" pc="268437054" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="74" pc="268437116" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="15" lineNum="75" pc="268437178" symbol="initializeProperties"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="79" pc="268437241" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="80" pc="268437245" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="81" pc="268437263" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="82" pc="268437288" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="83" pc="268437300" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="84" pc="268437326" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="85" pc="268437339" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="86" pc="268437352" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="16" lineNum="87" pc="268437365" symbol="initialize"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="90" pc="268437379" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="91" pc="268437383" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="92" pc="268437397" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="93" pc="268437408" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="95" pc="268437437" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="96" pc="268437448" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="98" pc="268437477" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="99" pc="268437488" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="101" pc="268437517" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="17" lineNum="102" pc="268437528" symbol="initializeArray"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="18" lineNum="126" pc="268437558" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="18" lineNum="128" pc="268437562" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="18" lineNum="129" pc="268437572" symbol="onTimerStart"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="19" lineNum="135" pc="268437589" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="19" lineNum="137" pc="268437593" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="19" lineNum="138" pc="268437609" symbol="onTimerStop"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="20" lineNum="143" pc="268437656" symbol="onTimerPause"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="20" lineNum="145" pc="268437660" symbol="onTimerPause"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="20" lineNum="146" pc="268437676" symbol="onTimerPause"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="150" pc="268437723" symbol="onTimerResume"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="152" pc="268437727" symbol="onTimerResume"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="153" pc="268437743" symbol="onTimerResume"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="21" lineNum="154" pc="268437773" symbol="onTimerResume"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="159" pc="268437794" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="161" pc="268437798" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="162" pc="268437814" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="22" lineNum="163" pc="268437848" symbol="onTimerReset"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="168" pc="268437861" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="169" pc="268437865" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="172" pc="268437884" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="173" pc="268437907" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="176" pc="268437953" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="177" pc="268437976" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="180" pc="268438022" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="181" pc="268438045" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="184" pc="268438091" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="185" pc="268438114" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="189" pc="268438160" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="190" pc="268438203" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="191" pc="268438227" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="192" pc="268438249" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="193" pc="268438273" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="196" pc="268438295" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="23" lineNum="197" pc="268438347" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="204" pc="268438351" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="207" pc="268438355" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="208" pc="268438366" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="209" pc="268438373" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="210" pc="268438384" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="211" pc="268438397" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="214" pc="268438413" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="215" pc="268438424" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="216" pc="268438454" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="218" pc="268438477" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="220" pc="268438511" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="225" pc="268438524" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="226" pc="268438551" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="227" pc="268438578" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="228" pc="268438605" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="229" pc="268438638" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="230" pc="268438658" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="231" pc="268438669" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="233" pc="268438698" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="234" pc="268438709" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="236" pc="268438738" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="237" pc="268438749" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="239" pc="268438778" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="24" lineNum="240" pc="268438789" symbol="compute"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="247" pc="268438822" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="249" pc="268438826" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="252" pc="268438869" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="253" pc="268438893" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="254" pc="268438917" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="255" pc="268438944" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="256" pc="268438968" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="258" pc="268438995" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="259" pc="268439019" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="261" pc="268439043" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="262" pc="268439062" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="263" pc="268439073" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="264" pc="268439107" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="265" pc="268439114" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="266" pc="268439127" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="268" pc="268439145" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="269" pc="268439164" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="270" pc="268439190" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="273" pc="268439209" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="274" pc="268439256" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="25" lineNum="278" pc="268439303" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="281" pc="268439324" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="282" pc="268439328" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="284" pc="268439431" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="285" pc="268439465" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="286" pc="268439548" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="288" pc="268439551" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="289" pc="268439585" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="290" pc="268439710" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="292" pc="268439713" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="293" pc="268439789" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="294" pc="268439836" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="296" pc="268439839" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="297" pc="268439873" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="299" pc="268439926" symbol="displayInformation"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="8" pc="268445119" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKilometerMultiFieldView.mc" id="26" lineNum="37" pc="268445133" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="19" pc="268439930" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="20" pc="268439942" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="21" pc="268439995" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="23" pc="268440056" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="24" pc="268440092" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="25" pc="268440102" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="26" pc="268440102" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="27" pc="268440109" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="29" pc="268440116" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="31" pc="268440166" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="32" pc="268440173" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="33" pc="268440180" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="34" pc="268440187" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="35" pc="268440212" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="36" pc="268440254" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="37" pc="268440296" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="38" pc="268440309" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="39" pc="268440316" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="40" pc="268440336" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="42" pc="268440364" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="44" pc="268440392" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="45" pc="268440411" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="46" pc="268440422" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="28" lineNum="50" pc="268440435" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="56" pc="268440466" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="57" pc="268440478" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="58" pc="268440494" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="59" pc="268440528" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="29" lineNum="60" pc="268440550" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="65" pc="268440570" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="66" pc="268440582" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="67" pc="268440592" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="68" pc="268440605" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="69" pc="268440616" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="70" pc="268440632" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="71" pc="268440643" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="30" lineNum="73" pc="268440659" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="76" pc="268440663" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="77" pc="268440675" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="78" pc="268440700" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="79" pc="268440725" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="80" pc="268440765" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="81" pc="268440790" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="31" lineNum="82" pc="268440830" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="86" pc="268440856" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="87" pc="268440868" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="88" pc="268440920" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="89" pc="268440943" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="90" pc="268440969" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="91" pc="268441006" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="94" pc="268441023" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="95" pc="268441040" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="99" pc="268441065" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="100" pc="268441084" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="32" lineNum="101" pc="268441110" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="106" pc="268441127" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="107" pc="268441139" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="108" pc="268441153" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="109" pc="268441160" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="110" pc="268441185" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="33" lineNum="112" pc="268441212" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="115" pc="268441216" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="116" pc="268441228" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="117" pc="268441242" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="118" pc="268441249" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="119" pc="268441274" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="34" lineNum="121" pc="268441301" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="124" pc="268441305" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="125" pc="268441317" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="126" pc="268441331" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="127" pc="268441338" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="128" pc="268441355" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="129" pc="268441371" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="35" lineNum="131" pc="268441387" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="36" lineNum="134" pc="268441391" symbol="getTotalLkm"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="36" lineNum="135" pc="268441403" symbol="getTotalLkm"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="36" lineNum="136" pc="268441417" symbol="getTotalLkm"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="37" lineNum="139" pc="268441427" symbol="clear"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="37" lineNum="140" pc="268441439" symbol="clear"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="37" lineNum="141" pc="268441448" symbol="clear"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="38" lineNum="144" pc="268441463" symbol="setTrigger"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="38" lineNum="145" pc="268441475" symbol="setTrigger"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="39" lineNum="148" pc="268441486" symbol="activityPaused"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="39" lineNum="149" pc="268441498" symbol="activityPaused"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="152" pc="268441536" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="153" pc="268441548" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="154" pc="268441578" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="155" pc="268441585" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\git\\LeistungsKilometerApp\\LeistungsKilometerMultiField\\source\\LeistungsKiloMeter.mc" id="40" lineNum="10" pc="268445148" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="46" lineNum="15" pc="268441599" symbol="MainLayout"/>
+        <entry filename="Rez" id="46" lineNum="17" pc="268441611" symbol="MainLayout"/>
+        <entry filename="Rez" id="46" lineNum="18" pc="268441624" symbol="MainLayout"/>
+        <entry filename="Rez" id="46" lineNum="20" pc="268441637" symbol="MainLayout"/>
+        <entry filename="Rez" id="46" lineNum="21" pc="268441661" symbol="MainLayout"/>
+        <entry filename="Rez" id="46" lineNum="22" pc="268441824" symbol="MainLayout"/>
+        <entry filename="Rez" id="46" lineNum="24" pc="268441987" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="33" pc="268442025" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="47" lineNum="36" pc="268442037" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="47" lineNum="37" pc="268442061" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="47" lineNum="38" pc="268442194" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="47" lineNum="40" pc="268442327" symbol="TopLeftLayout"/>
+        <entry filename="Rez" id="48" lineNum="49" pc="268442365" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="48" lineNum="52" pc="268442377" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="48" lineNum="53" pc="268442401" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="48" lineNum="54" pc="268442534" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="48" lineNum="56" pc="268442667" symbol="TopRightLayout"/>
+        <entry filename="Rez" id="49" lineNum="65" pc="268442705" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="49" lineNum="68" pc="268442717" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="49" lineNum="69" pc="268442741" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="49" lineNum="70" pc="268442874" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="49" lineNum="72" pc="268443007" symbol="BottomLeftLayout"/>
+        <entry filename="Rez" id="50" lineNum="81" pc="268443045" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="50" lineNum="84" pc="268443057" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="50" lineNum="85" pc="268443081" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="50" lineNum="86" pc="268443214" symbol="BottomRightLayout"/>
+        <entry filename="Rez" id="50" lineNum="88" pc="268443347" symbol="BottomRightLayout"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="19" pc="268443385" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="20" pc="268443397" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="21" pc="268443450" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="23" pc="268443511" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="24" pc="268443547" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="25" pc="268443557" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="26" pc="268443557" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="27" pc="268443564" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="29" pc="268443571" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="31" pc="268443621" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="32" pc="268443628" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="33" pc="268443635" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="34" pc="268443642" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="35" pc="268443667" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="36" pc="268443709" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="37" pc="268443751" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="38" pc="268443764" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="39" pc="268443771" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="40" pc="268443791" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="42" pc="268443819" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="44" pc="268443847" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="45" pc="268443866" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="46" pc="268443877" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="54" lineNum="50" pc="268443890" symbol="updateLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="55" lineNum="56" pc="268443921" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="55" lineNum="57" pc="268443933" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="55" lineNum="58" pc="268443949" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="55" lineNum="59" pc="268443983" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="55" lineNum="60" pc="268444005" symbol="updateValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="65" pc="268444025" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="66" pc="268444037" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="67" pc="268444048" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="68" pc="268444058" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="69" pc="268444071" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="70" pc="268444082" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="71" pc="268444098" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="72" pc="268444109" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="74" pc="268444125" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="56" lineNum="76" pc="268444131" symbol="getLeistungsKilometer"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="79" pc="268444138" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="80" pc="268444150" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="81" pc="268444175" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="82" pc="268444200" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="83" pc="268444240" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="84" pc="268444265" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="57" lineNum="85" pc="268444305" symbol="updatePointValues"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="89" pc="268444331" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="90" pc="268444343" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="91" pc="268444395" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="92" pc="268444418" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="93" pc="268444444" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="94" pc="268444481" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="97" pc="268444498" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="98" pc="268444515" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="102" pc="268444540" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="103" pc="268444559" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="58" lineNum="104" pc="268444585" symbol="checkIfUpdateNeeded"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="59" lineNum="109" pc="268444602" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="59" lineNum="110" pc="268444614" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="59" lineNum="111" pc="268444628" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="59" lineNum="112" pc="268444635" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="59" lineNum="113" pc="268444660" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="59" lineNum="115" pc="268444687" symbol="getLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="60" lineNum="118" pc="268444691" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="60" lineNum="119" pc="268444703" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="60" lineNum="120" pc="268444717" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="60" lineNum="121" pc="268444724" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="60" lineNum="122" pc="268444749" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="60" lineNum="124" pc="268444776" symbol="getSteepness"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="127" pc="268444780" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="128" pc="268444792" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="129" pc="268444806" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="130" pc="268444813" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="131" pc="268444830" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="132" pc="268444846" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="61" lineNum="134" pc="268444862" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="62" lineNum="137" pc="268444866" symbol="getTotalLkm"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="62" lineNum="138" pc="268444878" symbol="getTotalLkm"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="62" lineNum="139" pc="268444892" symbol="getTotalLkm"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="63" lineNum="142" pc="268444902" symbol="clear"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="63" lineNum="143" pc="268444914" symbol="clear"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="63" lineNum="144" pc="268444923" symbol="clear"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="64" lineNum="147" pc="268444938" symbol="setTrigger"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="64" lineNum="148" pc="268444950" symbol="setTrigger"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="65" lineNum="151" pc="268444961" symbol="activityPaused"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="65" lineNum="152" pc="268444973" symbol="activityPaused"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="66" lineNum="158" pc="268444983" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="66" lineNum="160" pc="268444995" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="66" lineNum="161" pc="268445002" symbol="activityResumed"/>
+        <entry filename="C:\\Users\\Dan\\AppData\\Local\\Temp\\LeistungsKiloMeeter-3.2.1.barrel9691319035142225926\\content\\LeistungsKiloMeter.mc" id="66" lineNum="10" pc="268445163" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="14" module="true" symbol="globals/LeistungsKiloMeter/Rez/Fonts"/>
+        <entry field="true" id="37" symbol="hShort"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="92" symbol="TOTLKM"/>
+        <entry field="true" id="59" symbol="lkmDataLabel"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8389849" symbol="units"/>
+        <entry field="true" id="68" symbol="_totLkm"/>
+        <entry id="10" module="true" symbol="globals/LeistungsKiloMeter"/>
+        <entry field="true" id="8388731" symbol="startTime"/>
+        <entry id="15" module="true" symbol="globals/LeistungsKiloMeter/Rez/Layouts"/>
+        <entry id="8388638" module="true" symbol="ActivityRecording"/>
+        <entry id="87" method="true" symbol="initializeProperties"/>
+        <entry id="26" method="true" symbol="MainLayout"/>
+        <entry field="true" id="93" symbol="STOPPED"/>
+        <entry field="true" id="65" symbol="steepness"/>
+        <entry id="8389683" method="true" symbol="onSettingsChanged"/>
+        <entry field="true" id="32" symbol="carouselSecondsPrompt"/>
+        <entry field="true" id="51" symbol="lkmShort"/>
+        <entry field="true" id="36" symbol="inSettings"/>
+        <entry id="13" module="true" symbol="globals/LeistungsKiloMeter/Rez/Menus"/>
+        <entry field="true" id="84" symbol="displayArray"/>
+        <entry id="8389748" method="true" symbol="onTimerStop"/>
+        <entry id="113" method="true" symbol="activityResumed"/>
+        <entry field="true" id="52" symbol="carouselSecondsTitle"/>
+        <entry field="true" id="41" symbol="aShort"/>
+        <entry field="true" id="56" symbol="avLong"/>
+        <entry id="16" module="true" symbol="globals/LeistungsKiloMeter/Rez/JsonData"/>
+        <entry id="11" module="true" symbol="globals/LeistungsKiloMeter/Rez"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="60" symbol="gradDataCollectionTitle"/>
+        <entry field="true" id="44" symbol="gradientShort"/>
+        <entry field="true" id="8388649" module="true" object="true" symbol="Test"/>
+        <entry id="19" object="true" symbol="LeistungsKilometerMultiFieldView"/>
+        <entry id="103" method="true" symbol="updateValues"/>
+        <entry field="true" id="82" symbol="app"/>
+        <entry field="true" id="100" symbol="countTrigger"/>
+        <entry field="true" id="50" symbol="totlkmDisplayTitle"/>
+        <entry id="8389747" method="true" symbol="onTimerStart"/>
+        <entry field="true" id="38" symbol="AppName"/>
+        <entry field="true" id="8388963" symbol="altitude"/>
+        <entry id="8389749" method="true" symbol="onTimerPause"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry field="true" id="72" symbol="switchtimer"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="89" symbol="LKMH"/>
+        <entry id="88" method="true" symbol="initializeArray"/>
+        <entry id="102" method="true" symbol="updateLeistungsKilometer"/>
+        <entry id="86" method="true" symbol="initializeFields"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry field="true" id="8389138" symbol="label"/>
+        <entry field="true" id="39" symbol="counterTriggerTitle"/>
+        <entry id="104" method="true" symbol="getLeistungsKilometer"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="9" module="true" symbol="globals/LeistungsKiloMeter2"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="106" method="true" symbol="checkIfUpdateNeeded"/>
+        <entry field="true" id="31" symbol="totlkmDataCollectionTitle"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry field="true" id="67" symbol="_avLkmh"/>
+        <entry id="24" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="43" symbol="hLong"/>
+        <entry id="18" object="true" symbol="LeistungsKilometerMultiFieldApp"/>
+        <entry field="true" id="8388733" symbol="timerTime"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="76" symbol="_lkmhDisp"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="112" method="true" symbol="activityPaused"/>
+        <entry field="true" id="55" symbol="lkmhDataCollectionTitle"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry field="true" id="77" symbol="_avlkmhDisp"/>
+        <entry field="true" id="99" symbol="totLkm"/>
+        <entry id="21" module="true" symbol="LeistungsKiloMeter"/>
+        <entry id="8389131" method="true" symbol="setColor"/>
+        <entry field="true" id="91" symbol="GRAD"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="79" symbol="_gradDC"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry field="true" id="78" symbol="_avlkmhDC"/>
+        <entry field="true" id="62" symbol="lkm"/>
+        <entry id="12" module="true" symbol="globals/LeistungsKiloMeter/Rez/Drawables"/>
+        <entry field="true" id="70" symbol="_steepness"/>
+        <entry field="true" id="97" symbol="prevTime"/>
+        <entry field="true" id="58" symbol="lkmhShort"/>
+        <entry id="8389177" method="true" symbol="clear"/>
+        <entry id="8389752" method="true" symbol="onTimerReset"/>
+        <entry id="27" method="true" symbol="TopLeftLayout"/>
+        <entry id="105" method="true" symbol="updatePointValues"/>
+        <entry field="true" id="45" symbol="avLkmhLong"/>
+        <entry field="true" id="64" symbol="avlkmh"/>
+        <entry id="108" method="true" symbol="getSteepness"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="48" symbol="lkmhDisplayTitle"/>
+        <entry field="true" id="80" symbol="_gradDisp"/>
+        <entry field="true" id="73" symbol="_lkmDC"/>
+        <entry id="29" method="true" symbol="BottomLeftLayout"/>
+        <entry id="111" method="true" symbol="setTrigger"/>
+        <entry field="true" id="94" symbol="PAUSED"/>
+        <entry id="30" method="true" symbol="BottomRightLayout"/>
+        <entry id="109" method="true" symbol="getAverageLeistungsKilometerProStunde"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="8389130" symbol="mColor"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry field="true" id="101" symbol="counter"/>
+        <entry field="true" id="25" symbol="LauncherIcon"/>
+        <entry field="true" id="71" symbol="fieldNum"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="98" symbol="totTime"/>
+        <entry field="true" id="8388794" method="true" symbol="values"/>
+        <entry field="true" id="40" symbol="minValueError"/>
+        <entry field="true" id="66" symbol="_mTimerState"/>
+        <entry field="true" id="95" symbol="RUNNING"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="35" symbol="avlkmhDisplayTitle"/>
+        <entry field="true" id="74" symbol="_lkmDisp"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="20" module="true" symbol="LeistungsKiloMeter2"/>
+        <entry id="8390146" module="true" object="true" symbol="Background"/>
+        <entry field="true" id="85" symbol="counterTrigger"/>
+        <entry field="true" id="22" symbol="_view"/>
+        <entry field="true" id="34" symbol="gradientUnit"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="42" symbol="TestAppName"/>
+        <entry id="107" method="true" symbol="getLeistungsKilometerProStunde"/>
+        <entry field="true" id="54" symbol="gradDisplayTitle"/>
+        <entry field="true" id="75" symbol="_lkmhDC"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry field="true" id="81" symbol="isStarted"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389847" symbol="mesgType"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="33" symbol="counterTriggerPrompt"/>
+        <entry field="true" id="61" symbol="lkmBarrel"/>
+        <entry field="true" id="46" symbol="lkmhLong"/>
+        <entry id="110" method="true" symbol="getTotalLkm"/>
+        <entry id="96" method="true" symbol="displayInformation"/>
+        <entry field="true" id="8388734" symbol="elapsedDistance"/>
+        <entry field="true" id="83" symbol="carouselSec"/>
+        <entry id="23" module="true" symbol="Layouts"/>
+        <entry field="true" id="49" symbol="lkmLong"/>
+        <entry field="true" id="69" symbol="_lkmh"/>
+        <entry id="8388642" module="true" symbol="Position"/>
+        <entry id="8389750" method="true" symbol="onTimerResume"/>
+        <entry field="true" id="63" symbol="lkmh"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="17" module="true" symbol="globals/LeistungsKiloMeter/Rez/Strings"/>
+        <entry field="true" id="53" symbol="avlkmDataCollectionTitle"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry field="true" id="90" symbol="AVLKMH"/>
+        <entry field="true" id="47" symbol="gradient"/>
+        <entry id="28" method="true" symbol="TopRightLayout"/>
+        <entry field="true" id="57" symbol="pleaseSelect"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435484" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435489" name="state" stackId="1" startPc="268435484"/>
+        <entry endPc="268435615" name="dictionary" stackId="1" startPc="268435574"/>
+        <entry arg="true" endPc="268435631" name="color" stackId="1" startPc="268435616"/>
+        <entry arg="true" endPc="268435680" name="dc" stackId="1" startPc="268435631"/>
+        <entry endPc="268437793" name="lkmInt" stackId="1" startPc="268437727"/>
+        <entry endPc="268438295" name="valueView" stackId="4" startPc="268438160"/>
+        <entry endPc="268438295" name="labelView" stackId="3" startPc="268438160"/>
+        <entry endPc="268438350" name="obscurityFlags" stackId="2" startPc="268437865"/>
+        <entry arg="true" endPc="268438351" name="dc" stackId="1" startPc="268437861"/>
+        <entry endPc="268438474" name="lkmInt" stackId="3" startPc="268438424"/>
+        <entry endPc="268438521" name="elapsed" stackId="2" startPc="268438366"/>
+        <entry arg="true" endPc="268438822" name="info" stackId="1" startPc="268438351"/>
+        <entry endPc="268439206" name="dataFieldEnum" stackId="7" startPc="268439073"/>
+        <entry endPc="268439206" name="modulo" stackId="6" startPc="268439073"/>
+        <entry endPc="268439206" name="divided" stackId="5" startPc="268439073"/>
+        <entry endPc="268439323" name="label" stackId="3" startPc="268438826"/>
+        <entry endPc="268439323" name="numOfFields" stackId="4" startPc="268438826"/>
+        <entry endPc="268439323" name="value" stackId="2" startPc="268438826"/>
+        <entry arg="true" endPc="268439324" name="dc" stackId="1" startPc="268438822"/>
+        <entry arg="true" endPc="268439930" name="dataFieldEnum" stackId="1" startPc="268439324"/>
+        <entry arg="true" endPc="268439930" name="label" stackId="3" startPc="268439324"/>
+        <entry arg="true" endPc="268439930" name="value" stackId="2" startPc="268439324"/>
+        <entry endPc="268440432" name="hoursElapsed" stackId="10" startPc="268440212"/>
+        <entry endPc="268440432" name="deltaDistance" stackId="9" startPc="268440212"/>
+        <entry endPc="268440432" name="deltaAlti" stackId="8" startPc="268440212"/>
+        <entry endPc="268440459" name="lkm" stackId="6" startPc="268440056"/>
+        <entry endPc="268440459" name="now" stackId="2" startPc="268440056"/>
+        <entry endPc="268440459" name="steepness" stackId="5" startPc="268440056"/>
+        <entry endPc="268440459" name="timeToUse" stackId="3" startPc="268440056"/>
+        <entry endPc="268440459" name="timeFromPrevPoint" stackId="4" startPc="268440056"/>
+        <entry endPc="268440459" name="lkmh" stackId="7" startPc="268440056"/>
+        <entry arg="true" endPc="268440466" name="info" stackId="1" startPc="268439930"/>
+        <entry arg="true" endPc="268440570" name="lkm" stackId="1" startPc="268440466"/>
+        <entry arg="true" endPc="268440570" name="now" stackId="6" startPc="268440466"/>
+        <entry arg="true" endPc="268440570" name="steepness" stackId="5" startPc="268440466"/>
+        <entry arg="true" endPc="268440570" name="info" stackId="4" startPc="268440466"/>
+        <entry arg="true" endPc="268440570" name="timeFromPrevPoint" stackId="2" startPc="268440466"/>
+        <entry arg="true" endPc="268440570" name="lkmh" stackId="3" startPc="268440466"/>
+        <entry endPc="268440662" name="lkm" stackId="4" startPc="268440582"/>
+        <entry arg="true" endPc="268440663" name="deltaDistance" stackId="1" startPc="268440570"/>
+        <entry arg="true" endPc="268440663" name="deltaAlti" stackId="3" startPc="268440570"/>
+        <entry arg="true" endPc="268440663" name="steepness" stackId="2" startPc="268440570"/>
+        <entry arg="true" endPc="268440856" name="lkm" stackId="1" startPc="268440663"/>
+        <entry arg="true" endPc="268440856" name="steepness" stackId="5" startPc="268440663"/>
+        <entry arg="true" endPc="268440856" name="info" stackId="3" startPc="268440663"/>
+        <entry arg="true" endPc="268440856" name="timeFromPrevPoint" stackId="4" startPc="268440663"/>
+        <entry arg="true" endPc="268440856" name="lkmh" stackId="2" startPc="268440663"/>
+        <entry endPc="268441126" name="now" stackId="2" startPc="268440868"/>
+        <entry endPc="268441126" name="gpsQuality" stackId="3" startPc="268440868"/>
+        <entry arg="true" endPc="268441127" name="info" stackId="1" startPc="268440856"/>
+        <entry endPc="268441215" name="lkmh" stackId="2" startPc="268441139"/>
+        <entry arg="true" endPc="268441216" name="info" stackId="1" startPc="268441127"/>
+        <entry endPc="268441304" name="steepness" stackId="2" startPc="268441228"/>
+        <entry arg="true" endPc="268441305" name="info" stackId="1" startPc="268441216"/>
+        <entry endPc="268441384" name="hours" stackId="3" startPc="268441355"/>
+        <entry endPc="268441390" name="avLKM" stackId="2" startPc="268441317"/>
+        <entry arg="true" endPc="268441391" name="info" stackId="1" startPc="268441305"/>
+        <entry arg="true" endPc="268441427" name="info" stackId="1" startPc="268441391"/>
+        <entry arg="true" endPc="268441486" name="countTriggerIn" stackId="1" startPc="268441463"/>
+        <entry endPc="268441598" name="lkm" stackId="1" startPc="268441548"/>
+        <entry endPc="268442024" name="rez_cmp_local_text_value" stackId="6" startPc="268441611"/>
+        <entry endPc="268442024" name="rez_cmp_local_var_dc_getWidth" stackId="3" startPc="268441611"/>
+        <entry endPc="268442024" name="rez_cmp_local_var_dc_getHeight" stackId="2" startPc="268441611"/>
+        <entry endPc="268442024" name="rez_cmp_local_text_label" stackId="5" startPc="268441611"/>
+        <entry endPc="268442024" name="rez_cmp_local_custom_drawable_13388218542810818691" stackId="4" startPc="268441611"/>
+        <entry arg="true" endPc="268442025" name="dc" stackId="1" startPc="268441599"/>
+        <entry endPc="268442364" name="rez_cmp_local_text_value" stackId="4" startPc="268442037"/>
+        <entry endPc="268442364" name="rez_cmp_local_custom_drawable_15382243041229798429" stackId="2" startPc="268442037"/>
+        <entry endPc="268442364" name="rez_cmp_local_text_label" stackId="3" startPc="268442037"/>
+        <entry arg="true" endPc="268442365" name="dc" stackId="1" startPc="268442025"/>
+        <entry endPc="268442704" name="rez_cmp_local_text_value" stackId="4" startPc="268442377"/>
+        <entry endPc="268442704" name="rez_cmp_local_custom_drawable_48436898240464355120" stackId="2" startPc="268442377"/>
+        <entry endPc="268442704" name="rez_cmp_local_text_label" stackId="3" startPc="268442377"/>
+        <entry arg="true" endPc="268442705" name="dc" stackId="1" startPc="268442365"/>
+        <entry endPc="268443044" name="rez_cmp_local_text_value" stackId="4" startPc="268442717"/>
+        <entry endPc="268443044" name="rez_cmp_local_custom_drawable_88525212137901892716" stackId="2" startPc="268442717"/>
+        <entry endPc="268443044" name="rez_cmp_local_text_label" stackId="3" startPc="268442717"/>
+        <entry arg="true" endPc="268443045" name="dc" stackId="1" startPc="268442705"/>
+        <entry endPc="268443384" name="rez_cmp_local_text_value" stackId="4" startPc="268443057"/>
+        <entry endPc="268443384" name="rez_cmp_local_custom_drawable_17536157672302511373" stackId="2" startPc="268443057"/>
+        <entry endPc="268443384" name="rez_cmp_local_text_label" stackId="3" startPc="268443057"/>
+        <entry arg="true" endPc="268443385" name="dc" stackId="1" startPc="268443045"/>
+        <entry endPc="268443887" name="hoursElapsed" stackId="10" startPc="268443667"/>
+        <entry endPc="268443887" name="deltaDistance" stackId="9" startPc="268443667"/>
+        <entry endPc="268443887" name="deltaAlti" stackId="8" startPc="268443667"/>
+        <entry endPc="268443914" name="lkm" stackId="6" startPc="268443511"/>
+        <entry endPc="268443914" name="now" stackId="2" startPc="268443511"/>
+        <entry endPc="268443914" name="steepness" stackId="5" startPc="268443511"/>
+        <entry endPc="268443914" name="timeToUse" stackId="3" startPc="268443511"/>
+        <entry endPc="268443914" name="timeFromPrevPoint" stackId="4" startPc="268443511"/>
+        <entry endPc="268443914" name="lkmh" stackId="7" startPc="268443511"/>
+        <entry arg="true" endPc="268443921" name="info" stackId="1" startPc="268443385"/>
+        <entry arg="true" endPc="268444025" name="lkm" stackId="1" startPc="268443921"/>
+        <entry arg="true" endPc="268444025" name="now" stackId="6" startPc="268443921"/>
+        <entry arg="true" endPc="268444025" name="steepness" stackId="5" startPc="268443921"/>
+        <entry arg="true" endPc="268444025" name="info" stackId="4" startPc="268443921"/>
+        <entry arg="true" endPc="268444025" name="timeFromPrevPoint" stackId="2" startPc="268443921"/>
+        <entry arg="true" endPc="268444025" name="lkmh" stackId="3" startPc="268443921"/>
+        <entry endPc="268444128" name="lkm" stackId="4" startPc="268444048"/>
+        <entry arg="true" endPc="268444138" name="deltaDistance" stackId="1" startPc="268444025"/>
+        <entry arg="true" endPc="268444138" name="deltaAlti" stackId="3" startPc="268444025"/>
+        <entry arg="true" endPc="268444138" name="steepness" stackId="2" startPc="268444025"/>
+        <entry arg="true" endPc="268444331" name="lkm" stackId="1" startPc="268444138"/>
+        <entry arg="true" endPc="268444331" name="steepness" stackId="5" startPc="268444138"/>
+        <entry arg="true" endPc="268444331" name="info" stackId="3" startPc="268444138"/>
+        <entry arg="true" endPc="268444331" name="timeFromPrevPoint" stackId="4" startPc="268444138"/>
+        <entry arg="true" endPc="268444331" name="lkmh" stackId="2" startPc="268444138"/>
+        <entry endPc="268444601" name="now" stackId="2" startPc="268444343"/>
+        <entry endPc="268444601" name="gpsQuality" stackId="3" startPc="268444343"/>
+        <entry arg="true" endPc="268444602" name="info" stackId="1" startPc="268444331"/>
+        <entry endPc="268444690" name="lkmh" stackId="2" startPc="268444614"/>
+        <entry arg="true" endPc="268444691" name="info" stackId="1" startPc="268444602"/>
+        <entry endPc="268444779" name="steepness" stackId="2" startPc="268444703"/>
+        <entry arg="true" endPc="268444780" name="info" stackId="1" startPc="268444691"/>
+        <entry endPc="268444859" name="hours" stackId="3" startPc="268444830"/>
+        <entry endPc="268444865" name="avLKM" stackId="2" startPc="268444792"/>
+        <entry arg="true" endPc="268444866" name="info" stackId="1" startPc="268444780"/>
+        <entry arg="true" endPc="268444902" name="info" stackId="1" startPc="268444866"/>
+        <entry arg="true" endPc="268444961" name="countTriggerIn" stackId="1" startPc="268444938"/>
+        <entry arg="true" endPc="268445016" name="lkm" stackId="1" startPc="268444983"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="159" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="246" parentId="globals" symbolId="Background" type="class"/>
+        <dataEntry offset="317" parentId="globals" symbolId="LeistungsKilometerMultiFieldApp" type="class"/>
+        <dataEntry offset="404" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="483" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="522" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="553" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="584" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="655" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="686" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="973" parentId="globals" symbolId="LeistungsKilometerMultiFieldView" type="class"/>
+        <dataEntry offset="1380" parentId="globals" symbolId="LeistungsKiloMeter2" type="module"/>
+        <dataEntry offset="1563" parentId="globals" symbolId="LeistungsKiloMeter" type="module"/>
+        <dataEntry offset="1754" parentId="LeistungsKiloMeter" symbolId="Rez" type="module"/>
+        <dataEntry offset="1833" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="1864" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="1895" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="1926" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="1957" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="1988" parentId="Rez" symbolId="Strings" type="module"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="LeistungsKilometerMultiFieldApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="LeistungsKilometerMultiFieldApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="LeistungsKilometerMultiFieldApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="LeistungsKilometerMultiFieldApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="LeistungsKilometerMultiFieldApp">
+            <documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="Background">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setColor" parent="Background">
+            <param id="color"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="draw" parent="Background">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSettingsChanged" parent="LeistungsKilometerMultiFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initializeFields" parent="LeistungsKilometerMultiFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initializeProperties" parent="LeistungsKilometerMultiFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="LeistungsKilometerMultiFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initializeArray" parent="LeistungsKilometerMultiFieldView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerStart" parent="LeistungsKilometerMultiFieldView">
+            <documentation><![CDATA[<div class="description"> The timer was started, so set the state to running.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerStop" parent="LeistungsKilometerMultiFieldView">
+            <documentation><![CDATA[<div class="description"> The timer was stopped, so set the state to stopped.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerPause" parent="LeistungsKilometerMultiFieldView">
+            <documentation><![CDATA[<div class="description"> The timer was started, so set the state to running.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerResume" parent="LeistungsKilometerMultiFieldView">
+            <documentation><![CDATA[<div class="description"> The timer was stopped, so set the state to stopped.<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onTimerReset" parent="LeistungsKilometerMultiFieldView">
+            <documentation><![CDATA[<div class="description"> The timer was reeset, so reset all our tracking variables<br/></div>]]></documentation>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="LeistungsKilometerMultiFieldView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="compute" parent="LeistungsKilometerMultiFieldView">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="LeistungsKilometerMultiFieldView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="displayInformation" parent="LeistungsKilometerMultiFieldView">
+            <param id="dataFieldEnum"/>
+            <param id="value"/>
+            <param id="label"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateLeistungsKilometer" parent="LeistungsKiloMeter2">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateValues" parent="LeistungsKiloMeter2">
+            <param id="lkm"/>
+            <param id="timeFromPrevPoint"/>
+            <param id="lkmh"/>
+            <param id="info"/>
+            <param id="steepness"/>
+            <param id="now"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getLeistungsKilometer" parent="LeistungsKiloMeter2">
+            <param id="deltaDistance"/>
+            <param id="steepness"/>
+            <param id="deltaAlti"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updatePointValues" parent="LeistungsKiloMeter2">
+            <param id="lkm"/>
+            <param id="lkmh"/>
+            <param id="info"/>
+            <param id="timeFromPrevPoint"/>
+            <param id="steepness"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="checkIfUpdateNeeded" parent="LeistungsKiloMeter2">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getLeistungsKilometerProStunde" parent="LeistungsKiloMeter2">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSteepness" parent="LeistungsKiloMeter2">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getAverageLeistungsKilometerProStunde" parent="LeistungsKiloMeter2">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTotalLkm" parent="LeistungsKiloMeter2">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="clear" parent="LeistungsKiloMeter2">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTrigger" parent="LeistungsKiloMeter2">
+            <param id="countTriggerIn"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="activityPaused" parent="LeistungsKiloMeter2">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="activityResumed" parent="LeistungsKiloMeter2">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="TopRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomLeftLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="BottomRightLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateLeistungsKilometer" parent="LeistungsKiloMeter">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateValues" parent="LeistungsKiloMeter">
+            <param id="lkm"/>
+            <param id="timeFromPrevPoint"/>
+            <param id="lkmh"/>
+            <param id="info"/>
+            <param id="steepness"/>
+            <param id="now"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getLeistungsKilometer" parent="LeistungsKiloMeter">
+            <param id="deltaDistance"/>
+            <param id="steepness"/>
+            <param id="deltaAlti"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updatePointValues" parent="LeistungsKiloMeter">
+            <param id="lkm"/>
+            <param id="lkmh"/>
+            <param id="info"/>
+            <param id="timeFromPrevPoint"/>
+            <param id="steepness"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="checkIfUpdateNeeded" parent="LeistungsKiloMeter">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getLeistungsKilometerProStunde" parent="LeistungsKiloMeter">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSteepness" parent="LeistungsKiloMeter">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getAverageLeistungsKilometerProStunde" parent="LeistungsKiloMeter">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getTotalLkm" parent="LeistungsKiloMeter">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="clear" parent="LeistungsKiloMeter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTrigger" parent="LeistungsKiloMeter">
+            <param id="countTriggerIn"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="activityPaused" parent="LeistungsKiloMeter">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="activityResumed" parent="LeistungsKiloMeter">
+            <param id="lkm"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
 </debugInfo>
