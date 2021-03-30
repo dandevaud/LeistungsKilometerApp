@@ -1,6 +1,6 @@
 <strings>
     <string id="AppName">Leistungskilometer Multi-Field Carousel</string>
-    <string id="TestAppName">TestLeistungsKilometerMultiField</string>
+    <string id="TestAppName">LeistungsKilometerMultiField</string>
     <string id="label">My Value</string>
     <string id="lkmShort">Lkm</string>
     <string id="hShort">/h</string>
